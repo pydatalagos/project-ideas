@@ -13,7 +13,7 @@ There are some really good tools on github, including a feature called [*Issues*
 [GitHub Issues](https://guides.github.com/features/issues/) work just like any other commenting system on the Internet. 
 To contribute and idea:
 
- - First, you'll need to [create an account](https://github.com/join). Then you have two options:
+ - First, you'll need to [create a github account](https://github.com/join) if you dont already have one. Then you have two options:
  - Comment on an existing idea (a.k.a. "issue") Scroll through the      
    [issues list](https://github.com/pydatalagos/project-ideas/issues)
    first to see if anyone's already thinking the same way! If you see an
@@ -25,6 +25,8 @@ To contribute and idea:
 *Here's a [quick video intro](https://www.youtube.com/watch?v=KlrJVSJRUN4) on using Github Issues for discussion.* 
 
 **What happens after i share an ideas?**
-Members of the community will comment and brain storm on it. And based on how popular and possible the ideas is we choose it as part of our top 3 project to work on, create a new repo for it assign a project co-coordinator among us and start working on it... ( you can be the co-coordinator if you choose to andHereIAmDeliberatelyAddingSomethingMeaninglessToSeeIfSomeoneWillMakeTheirFirstPRToCorrectIt... ;)  
+Members of the community will comment and brain storm on it. And based on how popular and possible the ideas is we choose it as part of our top 3 project to work on, create a new repo for it assign a project co-coordinator among us and start working on it.
 
 **Looking to contribute to an exsting project?** [View Repositories for our Active Projects](https://github.com/pydatalagos) 
+
+** Join us on [meetup.com](https://www.meetup.com/Pydata-Lagos) and find time to attend our meetups** 
