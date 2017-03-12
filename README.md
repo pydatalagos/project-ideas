@@ -9,7 +9,7 @@ Ideas that helps solve a societal problem through data analytics. our aim with i
 No ideas is too vague... so lets them out!   
 
 **How do I add a idea**
-There are some really good tools on github, including a feature called [*Issues*](https://github.com/pydatalagos/project-idea/issues). This is where we can brainstorm on ideas and flesh it into projects for collaborators to work on together. 
+There are some really good tools on github, including a feature called [*Issues*](https://github.com/pydatalagos/project-ideas/issues). This is where we can brainstorm on ideas and flesh it into projects for collaborators to work on together. 
 [GitHub Issues](https://guides.github.com/features/issues/) work just like any other commenting system on the Internet. 
 To contribute and idea:
 
