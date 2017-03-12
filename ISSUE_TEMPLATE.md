@@ -10,7 +10,7 @@ Answer here.
 
 Links here.
 
-### What are the next steps (brainstorming, design, coding)? 
+### What are the next steps (brain storming, design, coding)? 
 
 Answer here.
 
